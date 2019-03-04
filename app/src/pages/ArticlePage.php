@@ -28,4 +28,17 @@ class ArticlePage extends Page {
 
         return null;
     }
+
+    public function CommentForm()
+    {
+        //...
+        FieldList::create(
+            TextField::create('Name','')
+                ->setAttribute('placeholder','Name*'),
+            EmailField::create('Email','')
+                ->setAttribute('placeholder','Email*'),
+            TextareaField::create('Comment','')
+                ->setAttribute('placeholder','Comment*')
+        );
+    }
 }
