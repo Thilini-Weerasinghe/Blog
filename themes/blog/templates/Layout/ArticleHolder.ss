@@ -1,0 +1,1 @@
+<li><i class="fa fa-tags"></i> $CategoriesList</li>

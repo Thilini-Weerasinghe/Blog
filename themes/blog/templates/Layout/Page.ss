@@ -27,3 +27,5 @@
                 <div class="hero__slider__arrows js-slider-arrow"></div>
             <%--</div>--%>
 </div>
+
+<li><i class="fa fa-tags"></i> $CategoriesList</li>
