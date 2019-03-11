@@ -3,19 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="23728909-5264-4e43-b01c-8dc4aa0e8779" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/_config/mysite.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/_config/mysite.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/PageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/controllers/ArticlePageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/controllers/ArticlePageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/controllers/ContactUsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/controllers/ContactUsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/pages/ArticleHolder.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/pages/ArticleHolder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/pages/ArticlePage.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/pages/ArticlePage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/pages/ContactUs.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/pages/ContactUs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/blog/static/dist/app.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/static/dist/app.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blog/static/scss/components/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/static/scss/components/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blog/templates/Includes/Header.ss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/templates/Includes/Header.ss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blog/templates/Layout/ArticleHolder.ss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/templates/Layout/ArticleHolder.ss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blog/templates/Layout/ArticlePage.ss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/templates/Layout/ArticlePage.ss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blog/templates/Layout/ContactUs.ss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/templates/Layout/ContactUs.ss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blog/templates/Layout/Page.ss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/templates/Layout/Page.ss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/blog/static/scss/components/_mobile-menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/static/scss/components/_mobile-menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/blog/static/sourcemaps/app.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/static/sourcemaps/app.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/blog/templates/Includes/MobileMenu.ss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blog/templates/Includes/MobileMenu.ss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +42,9 @@
           <entry key="htaccess" value="1" />
           <entry key="js" value="2" />
           <entry key="json" value="1" />
-          <entry key="php" value="29" />
-          <entry key="scss" value="7" />
-          <entry key="ss" value="19" />
+          <entry key="php" value="31" />
+          <entry key="scss" value="8" />
+          <entry key="ss" value="20" />
           <entry key="yml" value="5" />
         </counts>
       </usages-collector>
@@ -58,10 +52,10 @@
         <counts>
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="2" />
-          <entry key="PHP" value="29" />
+          <entry key="PHP" value="31" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="7" />
-          <entry key="SilverStripe" value="19" />
+          <entry key="SCSS" value="8" />
+          <entry key="SilverStripe" value="20" />
           <entry key="YAML" value="5" />
           <entry key="htaccess" value="1" />
         </counts>
@@ -71,8 +65,8 @@
           <entry key="dummy" value="3" />
           <entry key="gitignore" value="8" />
           <entry key="json" value="37" />
-          <entry key="php" value="214" />
-          <entry key="scss" value="232" />
+          <entry key="php" value="216" />
+          <entry key="scss" value="238" />
           <entry key="ss" value="240" />
           <entry key="yml" value="26" />
         </counts>
@@ -80,9 +74,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="37" />
-          <entry key="PHP" value="214" />
+          <entry key="PHP" value="216" />
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="SCSS" value="232" />
+          <entry key="SCSS" value="238" />
           <entry key="SilverStripe" value="240" />
           <entry key="YAML" value="26" />
         </counts>
@@ -92,10 +86,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/_config/theme.yml">
+        <entry file="file://$PROJECT_DIR$/app/src/pages/ArticleComment.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -103,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/pages/ArticlePage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="42" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="356">
+              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
               <folding>
                 <element signature="e#7#47#0#PHP" expanded="true" />
               </folding>
@@ -124,17 +118,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/blog/templates/Includes/Header.ss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
+            <state relative-caret-position="546">
               <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/blog/static/scss/components/_header.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="152" column="4" selection-start-line="152" selection-start-column="4" selection-end-line="152" selection-end-column="4" />
+            <state relative-caret-position="393">
+              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="58" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/PageController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -151,35 +154,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/controllers/ArticlePageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="120">
+              <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <element signature="e#7#35#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/blog/static/scss/components/_mobile-menu.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/blog/templates/Layout/Page.ss">
+        <entry file="file://$PROJECT_DIR$/themes/blog/templates/Includes/MobileMenu.ss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/controllers/HomePageController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/blog/templates/Layout/HomePage.ss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -225,18 +222,20 @@
         <option value="$PROJECT_DIR$/themes/blog/templates/Layout/ContactUs.ss" />
         <option value="$PROJECT_DIR$/app/src/pages/ContactUs.php" />
         <option value="$PROJECT_DIR$/app/src/controllers/ContactUsController.php" />
-        <option value="$PROJECT_DIR$/app/src/PageController.php" />
         <option value="$PROJECT_DIR$/app/src/pages/ArticleHolder.php" />
         <option value="$PROJECT_DIR$/app/_config/mysite.yml" />
         <option value="$PROJECT_DIR$/themes/blog/templates/Layout/ArticlePage.ss" />
         <option value="$PROJECT_DIR$/themes/blog/templates/Layout/Page.ss" />
         <option value="$PROJECT_DIR$/themes/blog/templates/Layout/HomePage.ss" />
         <option value="$PROJECT_DIR$/app/src/controllers/HomePageController.php" />
-        <option value="$PROJECT_DIR$/app/src/pages/ArticlePage.php" />
         <option value="$PROJECT_DIR$/app/src/pages/ArticleComment.php" />
         <option value="$PROJECT_DIR$/themes/blog/templates/Layout/ArticleHolder.ss" />
         <option value="$PROJECT_DIR$/themes/blog/templates/Includes/Header.ss" />
         <option value="$PROJECT_DIR$/themes/blog/static/scss/components/_header.scss" />
+        <option value="$PROJECT_DIR$/app/src/PageController.php" />
+        <option value="$PROJECT_DIR$/app/src/pages/ArticlePage.php" />
+        <option value="$PROJECT_DIR$/themes/blog/templates/Includes/MobileMenu.ss" />
+        <option value="$PROJECT_DIR$/themes/blog/static/scss/components/_mobile-menu.scss" />
       </list>
     </option>
   </component>
@@ -499,12 +498,12 @@
       <workItem from="1552035104701" duration="315000" />
       <workItem from="1552039016936" duration="2376000" />
       <workItem from="1552275577777" duration="3305000" />
-      <workItem from="1552295402511" duration="1151000" />
+      <workItem from="1552295402511" duration="3702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22880000" />
+    <option name="totallyTimeSpent" value="25431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="24" width="1898" height="989" extended-state="0" />
@@ -719,13 +718,6 @@
     <entry file="file://$PROJECT_DIR$/app/src/Page.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/PageController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/pages/ArticleCategory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -740,13 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/pages/ArticleComment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/_config/mysite.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -758,23 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/pages/ArticlePage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="42" />
-          <folding>
-            <element signature="e#7#47#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/controllers/ArticlePageController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -799,13 +767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/blog/templates/Layout/ArticlePage.ss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/blog/templates/Layout/ArticleHolder.ss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -815,15 +776,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/blog/templates/Includes/Header.ss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
+        <state relative-caret-position="546">
           <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/blog/static/scss/components/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="152" column="4" selection-start-line="152" selection-start-column="4" selection-end-line="152" selection-end-column="4" />
+        <state relative-caret-position="393">
+          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="58" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/PageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/pages/ArticleComment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/pages/ArticlePage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
+          <folding>
+            <element signature="e#7#47#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blog/templates/Layout/ArticlePage.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/controllers/ArticlePageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#7#35#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blog/templates/Includes/MobileMenu.ss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/blog/static/scss/components/_mobile-menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>

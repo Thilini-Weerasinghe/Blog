@@ -63,18 +63,18 @@ class ArticlePage extends Page {
         return null;
     }
 
-//    public function CommentForm()
-//{
-//
-//    FieldList::create(
-//        TextField::create('Name','')
-//            ->setAttribute('placeholder','Name*'),
-//        EmailField::create('Email','')
-//            ->setAttribute('placeholder','Email*'),
-//        TextareaField::create('Comment','')
-//            ->setAttribute('placeholder','Comment*')
-//    );
-//}
+    public function CommentForm()
+{
+
+    FieldList::create(
+        TextField::create('Name','')
+            ->setAttribute('placeholder','Name*'),
+        EmailField::create('Email','')
+            ->setAttribute('placeholder','Email*'),
+        TextareaField::create('Comment','')
+            ->setAttribute('placeholder','Comment*')
+    );
+}
 
     private static $has_many = [
         'Comments' => ArticleComment::class,

@@ -47,5 +47,17 @@ namespace {
 
         return $myForm;
     }
+
+        public function sendContactForm($data, $form)
+        {
+            $name = $data['YourName'];
+            $message = $data['YourMessage'];
+            if(strlen($message) < 10) {
+                $form->addErrorMessage('YourMessage','Your message is too short','bad');
+                return $this->redirectBack();
+            }
+
+            return $this->redirect('/some/success/url');
+        }
     }
 }
