@@ -5,6 +5,10 @@ use SilverStripe\Forms\GridField\GridFieldConfig_RecordEditor;
 
 class ArticleHolder extends Page {
 
+    private static $allowed_children = [
+        ArticlePage::class
+    ];
+
 private static $has_many = [
 'Categories' => ArticleCategory::class,
 ];

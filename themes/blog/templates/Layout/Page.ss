@@ -1,5 +1,4 @@
 <div class="block hero">
-            <%--<div class="grid-container">--%>
                 <div class="hero__slider js-slider">
                     <div class="hero-slide">
                         <div class="hero-slide-image lazy"
@@ -25,7 +24,9 @@
                 </div>
 
                 <div class="hero__slider__arrows js-slider-arrow"></div>
-            <%--</div>--%>
 </div>
-
 <li><i class="fa fa-tags"></i> $CategoriesList</li>
+
+<% with $Photo.ScaleWidth(750) %>
+    <img class="my-custom-class" src="$URL" alt="" width="$Width" height="$Height" />
+<% end_with %>

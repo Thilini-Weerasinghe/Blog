@@ -29,5 +29,23 @@ namespace {
             // You can include any CSS or JS required by your project here.
             // See: https://docs.silverstripe.org/en/developer_guides/templates/requirements/
         }
+
+    public function ContactForm()
+    {
+        $myForm = Form::create(
+          //  $controller,
+            'ContactForm',
+            FieldList::create(
+                TextField::create('YourName','Your name'),
+                TextareaField::create('YourComments','Your comments')
+            ),
+            FieldList::create(
+                FormAction::create('sendContactForm','Submit')
+            ),
+            RequiredFields::create('YourName','YourComments')
+        );
+
+        return $myForm;
+    }
     }
 }

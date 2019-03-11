@@ -3,3 +3,11 @@ Name: myproject
 ---
 SilverStripe\Core\Manifest\ModuleManifest:
   project: app
+
+  MyElementPage:
+  extensions:
+  - DNADesign\Elemental\Extensions\ElementalPageExtension
+
+  SilverStripe\blog\ArticleHolder:
+  allowed_children:
+  - SilverStripe\Lessons\ArticlePage
